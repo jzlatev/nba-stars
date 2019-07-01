@@ -1,0 +1,10 @@
+C:\Users\JZlatev\source\repos\NBA Stars\NBA Stars\bin\Debug\NBA Stars.exe.config
+C:\Users\JZlatev\source\repos\NBA Stars\NBA Stars\bin\Debug\NBA Stars.exe
+C:\Users\JZlatev\source\repos\NBA Stars\NBA Stars\bin\Debug\NBA Stars.pdb
+C:\Users\JZlatev\source\repos\NBA Stars\NBA Stars\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JZlatev\source\repos\NBA Stars\NBA Stars\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JZlatev\source\repos\NBA Stars\NBA Stars\obj\Debug\NBA Stars.csprojAssemblyReference.cache
+C:\Users\JZlatev\source\repos\NBA Stars\NBA Stars\obj\Debug\NBA Stars.csproj.CoreCompileInputs.cache
+C:\Users\JZlatev\source\repos\NBA Stars\NBA Stars\obj\Debug\NBA Stars.csproj.CopyComplete
+C:\Users\JZlatev\source\repos\NBA Stars\NBA Stars\obj\Debug\NBA Stars.exe
+C:\Users\JZlatev\source\repos\NBA Stars\NBA Stars\obj\Debug\NBA Stars.pdb
